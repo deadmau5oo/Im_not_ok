@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "408483225645",
+    "firebase_url": "https://imnotok-2eb72.firebaseio.com",
+    "project_id": "imnotok-2eb72",
+    "storage_bucket": "imnotok-2eb72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408483225645:android:f9b277f5ba4e40d9fbd8a4",
+        "android_client_info": {
+          "package_name": "com.example.imnotok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408483225645-kul0aq8csmbi092da9f2rd0o6vucf4eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imnotok",
+            "certificate_hash": "cd25479a6342e05b82569c563e8376b9f6dfe9b3"
+          }
+        },
+        {
+          "client_id": "408483225645-uki0kls7d7v4i8cm72mmeeclvm07q1fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJqpwnhBS441eTI_ycqTNXRyTXwYkPD6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408483225645-uki0kls7d7v4i8cm72mmeeclvm07q1fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

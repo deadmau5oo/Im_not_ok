@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Im not ok</string>
+    <string name="Api_key" translatable="false">AIzaSyCOvp5SH3Q4ZU7OFGduLYvzcSvW4-D4c9Q</string>
+    <string name="iniciar_sesion">iniciar sesion</string>
+    <string name="crear_cuenta">crear cuenta</string>
+    <string name="numero_de_telefono">Numero de Telefono</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="numero_telefonico">Numero Telefonico</string>
+    <string name="nombre_completo">Nombre Completo</string>
+    <string name="name">Name</string>
+    <string name="crear_cuenta2">Crear Cuenta</string>
+    <string name="i_m_ok">i\'m OK</string>
+    <string name="comenzar_app">Comenzar app</string>
+    <string name="contactos">Contactos</string>
+    <string name="compartido_conmigo">Compartido Conmigo</string>
+    <string name="no_hay_problema_estoy_bien">No hay problema estoy bien</string>
+    <string name="nombre">Nombre</string>
+    <string name="numero">Numero</string>
+    <string name="agregar">Agregar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="lista_de_contactos">Lista De Contactos</string>
+    <string name="numero_de_contacto">Numero de Contacto</string>
+    <string name="nombre_de_contacto">Nombre de Contacto</string>
+    <string name="textview">TextView</string>
+    <string name="detener">Detener</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="cada_20_min">cada 20 min.</string>
+    <string name="cada_10_min">Cada 10 min.</string>
+    <string name="cada_30_min">Cada 30 min.</string>
+    <string name="contacto_seleccionado">Contacto Seleccionado</string>
+    <string name="notificacion_n">Notificacion N°</string>
+    <string name="_0">0</string>
+    <string name="_00_00">00:00</string>
+    <string name="ubicacion">Ubicacion</string>
+</resources>
